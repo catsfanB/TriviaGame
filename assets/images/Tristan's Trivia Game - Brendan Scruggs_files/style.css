@@ -1,0 +1,115 @@
+
+
+body {
+	background-image : url("../images/flagBackground.jpg");
+	background-repeat : repeat;
+	display : block;
+}
+
+h1 {
+	font-size : 34pt;
+	font-weight : bold;
+}
+
+.subtitle {
+	font-size : 16pt;
+}
+
+.overlay {
+	height : 400px;
+	padding-top : 75px;
+	color : white;
+	text-align : center;
+}
+
+.cars {
+	position : absolute;
+	top : 0px;
+	left : 75px;
+	height : 200px;
+}
+
+.toys {
+	position : absolute;
+	top : 100px;
+	left : 125px;
+	height : 200px;
+}
+
+.wall {
+	position : absolute;
+	top : 200px;
+	left : 175px;
+	height : 200px;
+}
+
+.gameBoard {
+	margin-top : 40px;
+	padding : 20px 20px 20px 20px;
+	background : darkblue;
+	border : 1px solid black;
+}
+
+.summaryArea {
+	background : darkgrey;
+	border : 1px solid black;
+	color : black;
+	font-size : 14pt;
+	font-weight : bold;
+	text-align : center;
+	padding : 20px 0px 20px 0px;
+	height : 420px;
+}
+
+.roundInfo {
+	padding : 10px;
+}
+
+.roundImage {
+	margin-left : auto;
+	margin-right : auto;
+	width : 200px;
+}
+
+.questionNumber {
+	padding : 10px;
+}
+
+.gameArea {
+	background : white;
+	color : black;
+	border : 1px solid black;
+	font-size : 18pt;
+	text-align: center;
+	height : 420px;
+}
+
+.timer {
+	margin-bottom : 50px;
+}
+
+.question {
+	margin-bottom : 25px;
+}
+
+.answers {
+	font-weight : bold;
+	text-align : center;
+	padding : 10px;
+	line-height : 20px;
+}
+
+.check {
+	font-weight : bold;
+	text-align : left;
+	color : black;
+	padding : 10px;
+	font-size : 18pt;
+	line-height : 20px;
+}
+
+
+
+
+
+
